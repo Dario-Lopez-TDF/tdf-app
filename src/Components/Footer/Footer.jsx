@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; 2023 - TDF Apps</p>
+      <p>&copy; 2023 Darius - TDF Apps</p>
     </footer>
   )
 }
